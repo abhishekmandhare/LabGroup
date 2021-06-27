@@ -53,7 +53,7 @@ export function TFNForm() {
     }} noValidate>
       <div className="row justify-content-center my-5" >
         <div className="col-sm-1 my-2 mx-4 ">
-          <label >Enter Tax File Number</label>
+          <label >Enter TFN</label>
         </div>
         <div className="col-sm-4 ">
           <input type="number" className="form-control" id="inlineFormInputGroupUsername" placeholder="Enter 8 or 9 digit TFN" onChange={(e) => onTfnChange(e)} value={tfn}/>
