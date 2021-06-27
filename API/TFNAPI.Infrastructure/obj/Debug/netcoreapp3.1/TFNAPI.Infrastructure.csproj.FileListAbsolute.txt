@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\obj\Debug\netcoreapp3.1\TFNAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\obj\Debug\netcoreapp3.1\TFNAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\obj\Debug\netcoreapp3.1\TFNAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\obj\Debug\netcoreapp3.1\TFNAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\bin\Debug\netcoreapp3.1\TFNAPI.Infrastructure.deps.json
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\bin\Debug\netcoreapp3.1\TFNAPI.Infrastructure.dll
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\bin\Debug\netcoreapp3.1\TFNAPI.Infrastructure.pdb
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\obj\Debug\netcoreapp3.1\TFNAPI.Infrastructure.dll
+C:\Users\DELL\source\repos\LabGroup\TFNAPI.Infrastructure\obj\Debug\netcoreapp3.1\TFNAPI.Infrastructure.pdb
